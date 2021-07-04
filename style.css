@@ -11,7 +11,7 @@ p{
 .orange-color{
     color: orange;
 }
-section{
+.fexible-container{
     display: flex;
     margin-bottom: 150px;
 }
